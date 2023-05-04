@@ -1,1 +1,1 @@
-# MultiThreading-To-Star-Catalog-
+# MultiThreading-To-Star-Catalog
